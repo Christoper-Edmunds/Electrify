@@ -1,5 +1,5 @@
 # Electrify
-A pitch and associated materials for a fictional e-bike conversion company named Electrify. [Pitch Video](https://drive.google.com/file/d/1KxOYibUXGzPoOwi7A7iU_pm0toffTzt9/view?usp=sharing)
+A pitch and associated materials for a fictional e-bike conversion company named Electrify. [Pitch Video](https://drive.google.com/file/d/1KxOYibUXGzPoOwi7A7iU_pm0toffTzt9/view?usp=sharing) [Presentation Video](https://www.youtube.com/watch?v=-90tWqW8PA8&feature=youtu.be&ab_channel=Chris) 
 
 Contributors:
 - Luke Goodman
